@@ -1,0 +1,6 @@
+If file watching is not working, you can force polling with: bundle exec rake autospec p l=3
+Skipping JS tests, run them in the browser at /qunit or add QUNIT=1 to env
+Running Rspec: spec
+
+Randomized with seed 47530
+..........F............................................................*.................Press [ENTER] to stop the current run
